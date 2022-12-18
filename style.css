@@ -1,0 +1,79 @@
+h1{
+    font-size:350%;
+    color:goldenrod;
+    font-family:'Times New Roman';
+}
+h2{
+    font-size:200%;
+    text-align:center;
+    color:goldenrod;
+    font-family:'Times New Roman';
+    
+  }
+  #nav{
+    width:100%;
+    background-color:goldenrod;
+    padding:0px;
+    overflow:hidden;
+    position:fixed;
+    top:0;
+    left:0;
+   
+  }
+  #nav a{
+    float:right;
+    color:white;
+    text-align:center;
+    padding:10px 20px;
+    text-decoration:none;
+    font-size:25px;
+  }
+  #nav a:hover{
+    background-color:white;
+    color:goldenrod;
+    
+    }
+ul{
+    margin:0px;
+}
+#aboutus{
+  font-size:200%;
+  text-align:center;
+  color:white;
+  font-family:'Garamond';
+    
+}
+#contactus{
+  padding-top: 40px;
+  font-size:200%;
+ text-align:center;
+  color:black;
+    font-family:'Andika';
+    background-color: goldenrod;
+    
+}
+#info{
+  padding-top: 40px;
+  text-align: center;
+  color:black;
+  font-family:'Garamond';
+}
+#Thanking{
+  font-size:200%;
+  text-align: center;
+  color:goldenrod;
+  font-family:'Times New Roman';
+}
+.aboutus{
+  padding-left: 0 ;
+height: 100%;
+width: 100%;
+}
+.contactus{
+  height: 100%;
+  width: 100%;
+  }
+  .info{
+    height: 100%;
+    width: 100%;
+    }
